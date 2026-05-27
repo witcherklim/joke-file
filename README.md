@@ -1,2 +1,2 @@
 # joke-file
-please run this program as administrator
+please run this program (working.bat) as administrator
